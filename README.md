@@ -1,4 +1,4 @@
-# Labo04_TSC
+# 00127417Laboratorio4
 Realizacion de ejecicion de MEF con dos incognitas
 
 Este archivo se realiza con el fin de dar autoria.
